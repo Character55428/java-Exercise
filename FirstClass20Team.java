@@ -3,6 +3,7 @@ public class FirstClass20Team {
     System.out.println("這是用來學習GitHub協作的程式");
     System.out.println("\"學號:\"01357020\"\n姓名:\"詹貴帆\"");
     System.out.println("\"學號:\"01357109\"\n姓名:\"王晉紳\"");
+    System.out.println("\"學號:\"01357154\"\n姓名:\"張元騰\"");
   }
 }
 
